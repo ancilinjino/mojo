@@ -1,0 +1,208 @@
+p.outwards {
+    font-size: 15;
+}
+a.navbar-brand {
+    background-color: red; 
+    height:70px;	
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 60px;
+}
+.flok {
+    float: left;
+    margin-left: 600px;
+}
+.navbar-inverse {
+    background-color: aliceblue;
+	border:none;
+}
+fa-gear:before, .fa-cog:before {
+    content: "\f013";
+    color: red;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #9d9d9d;
+    font-size: large;
+    padding-top: 25px;
+}
+.fa-calendar-o:before {
+    content: "\f133";
+    color: red;
+}
+.fa-address-book:before {
+    content: "\f2b9";
+    color: red;
+}
+.col-md-12.doo {
+    margin-top: -19px;
+}
+img.volly {
+    width: 25%;
+}
+img.sea {
+    width: 25%;
+}
+img.foot {
+    width: 25%;
+}
+h1.johnny {
+    text-align: center;
+    background: gold;
+}
+span.glyphicon.glyphicon-home {
+    font-size: 31px;
+    color: orange;
+}
+span.glyphicon.glyphicon-tower {
+    font-size: 31px;
+    color: orange;
+}
+span.glyphicon.glyphicon-time {
+    font-size: 31px;
+    color: orange;
+}
+span.glyphicon.glyphicon-asterisk {
+    color: orange;
+    font-size: 31px;
+}
+span.liquid {
+    color: orange;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 30px 0;
+  width: 100%;
+  height: 200px;
+  overflow:hidden;
+}
+.grid-container > div img {
+	width:100%;
+	
+}
+img.water {
+    width: 60%;
+}
+img.fire {
+    width: 60%;
+    border-radius: 100%;
+}
+img.land {
+    width: 75%;
+    border-radius: 100%;
+}
+img.fuel {
+    width: 85%;
+    border-radius: 50%;
+}
+img.diesel {
+    width: 67%;
+}
+img.petrol {
+    width: 75%;
+}
+section.potato {
+    padding-top: 50px;
+}
+span.book {
+    font-size: 20px;
+}
+h1.odomel {
+    color: orange;
+    margin-top: -8px;
+}
+img.water1 {
+    border-radius: 40px;
+    width: 100%;
+    height: 400px;
+}
+.col-md-6.blue {
+    background-color: aqua;
+    border-radius: 50px;
+    top: 41px;
+    right: 98px;
+}
+.col-md-6.blue {
+    padding-left: 50px;
+}
+section.tamil {
+    padding-top: 60px;
+}
+button.cold1 {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+}
+button.cold2 {
+    background-color: green;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+}
+svg.bi.bi-bezier2 {
+    margin-right: 12px;
+	color: aqua;
+}
+svg.bi.bi-buildings-fill {
+    margin-right: 10px;
+	color: aqua;
+}
+.col-md-6.goat {
+    padding-top: 25px;
+}
+h5.vote {
+    margin-top: -10px;
+}
+.coil {
+    background-color: burlywood;
+    border-top: solid red 5px;
+    border-radius: 50px;
+    padding-bottom: 30px;
+}
+img.doctor1 {
+    width: 175px;
+    margin-top: -50px;
+    margin-left: 100px;
+    height: 209px;
+    border-radius: 10px;
+}
+img.doctor2 {
+    width: 147px;
+    top: 72px;
+    left: 54px;
+    position: absolute;
+}
+section.flow1 {
+    margin-top: 61px;
+}
+img.beat {
+    width: 30px;
+}
+img.beat1 {
+    width: 30px;
+}
+.bee1 {
+    padding-top: 50px;
+    padding-left: 18px;
+}
+.bee3 {
+    padding-top: 10px;
+}
+.bee2 {
+    padding-top: 10px;
+}
+section.history {
+    background-color: cadetblue;
+    padding-top: 235px;
+}
+section.flow1 {
+    position: relative;
+    top: 100px;
+}
